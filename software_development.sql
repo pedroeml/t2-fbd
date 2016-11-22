@@ -1,3 +1,8 @@
+--Trabalho 2 - Fundamentos de Banco de dados 2016/2
+--Grupo 5, componentes:
+--Alexandre Gabiatti Vieira (Matrícula : 15280507-3)
+--Pedro Elpidio Melha Lemos (Matrícula : 14104999-9)
+
 CREATE TABLE DESIGN (
  CODIGO_DESIGN CHAR(10) NOT NULL,
  PADROES VARCHAR(200),
